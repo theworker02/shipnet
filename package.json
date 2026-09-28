@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/shipnet",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ship color net values and contrast-safe presentation helpers.",
+  "bin": {
+    "shipnet": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/shipnet.git"
+  },
+  "homepage": "https://theworker02.github.io/shipnet/",
+  "keywords": [
+    "ship",
+    "net",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
